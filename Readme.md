@@ -31,8 +31,3 @@
 
 ![Desktop](./layout_images/layout_footer.png "desktop version")
 
-## The online version
-
-In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Layout_Grid_Exercise-1/)
-
-#### Good luck and have fun!
